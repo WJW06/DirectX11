@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DirectX11\\DirectX11_Study\\DirectX11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX11\\DirectX11.vcxproj|C:\\DirectX11\\DirectX11\\DirectX\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\DirectX11\\DirectX11\\DirectX\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\DirectX11\\DirectX\\main.cpp",
+              "ToolTip": "C:\\DirectX11\\DirectX11\\DirectX\\main.cpp",
+              "RelativeToolTip": "..\\..\\DirectX11\\DirectX\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T12:51:10.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
