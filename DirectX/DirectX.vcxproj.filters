@@ -21,9 +21,6 @@
     <ClCompile Include="cameraclass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="colorshaderclass.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="d3dclass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -39,32 +36,45 @@
     <ClCompile Include="systemclass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="textureshaderclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="textureclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\DirectX11_Study\DirectX\applicationclass.h">
+    <ClInclude Include="applicationclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\DirectX11_Study\DirectX\cameraclass.h">
+    <ClInclude Include="cameraclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\DirectX11_Study\DirectX\colorshaderclass.h">
+    <ClInclude Include="d3dclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\DirectX11_Study\DirectX\d3dclass.h">
+    <ClInclude Include="inputclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\DirectX11_Study\DirectX\inputclass.h">
+    <ClInclude Include="modelclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\DirectX11_Study\DirectX\modelclass.h">
+    <ClInclude Include="systemclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\DirectX11_Study\DirectX\systemclass.h">
+    <ClInclude Include="textureshaderclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="textureclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\DirectX11_Study\DirectX\color.ps" />
-    <None Include="..\..\..\DirectX11_Study\DirectX\color.vs" />
+    <None Include="texture.ps" />
+    <None Include="texture.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="stone01.tga" />
+    <Image Include="my_img.tga" />
   </ItemGroup>
 </Project>
