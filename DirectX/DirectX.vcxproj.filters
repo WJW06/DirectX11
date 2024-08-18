@@ -36,10 +36,13 @@
     <ClCompile Include="systemclass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="textureshaderclass.cpp">
+    <ClCompile Include="textureclass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="textureclass.cpp">
+    <ClCompile Include="lightshaderclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lightclass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -62,19 +65,22 @@
     <ClInclude Include="systemclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="textureshaderclass.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
     <ClInclude Include="textureclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="texture.ps" />
-    <None Include="texture.vs" />
+    <ClInclude Include="lightshaderclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="lightclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="stone01.tga" />
     <Image Include="my_img.tga" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="light.ps" />
+    <None Include="light.vs" />
   </ItemGroup>
 </Project>

@@ -7,8 +7,36 @@
       "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\applicationclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\light.ps||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\light.ps||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\textureclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\light.vs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\light.vs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\modelclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\modelclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\my_img.tga||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\my_img.tga||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\lightshaderclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\lightshaderclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\modelclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\modelclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,18 +50,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\textureshaderclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\textureshaderclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\textureclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\my_img.tga||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\my_img.tga||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\systemclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\systemclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -44,18 +60,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\cameraclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\cameraclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\modelclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\modelclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|C:\\DirectX11\\DirectX11_Study\\DirectX\\textureshaderclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C7CA42E-1876-41C3-BE8D-D80BB728C071}|DirectX\\DirectX.vcxproj|solutionrelative:DirectX\\textureshaderclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,7 +79,7 @@
               "RelativeDocumentMoniker": "DirectX\\applicationclass.cpp",
               "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\applicationclass.cpp",
               "RelativeToolTip": "DirectX\\applicationclass.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-16T12:13:08.872Z",
               "IsPinned": true,
@@ -83,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "modelclass.cpp",
               "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\modelclass.cpp",
               "RelativeDocumentMoniker": "DirectX\\modelclass.cpp",
               "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\modelclass.cpp",
               "RelativeToolTip": "DirectX\\modelclass.cpp",
-              "ViewState": "AQIAAIAAAAAAAAAAAAAgwOgAAAAXAAAA",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAgwHMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-16T12:53:01.666Z",
               "IsPinned": true,
@@ -105,33 +109,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "textureclass.cpp",
-              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.cpp",
-              "RelativeDocumentMoniker": "DirectX\\textureclass.cpp",
-              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.cpp",
-              "RelativeToolTip": "DirectX\\textureclass.cpp",
-              "ViewState": "AQIAALgAAAAAAAAAAAAwwNAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T14:03:36.701Z",
+              "DocumentIndex": 1,
+              "Title": "light.ps",
+              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\light.ps",
+              "RelativeDocumentMoniker": "DirectX\\light.ps",
+              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\light.ps",
+              "RelativeToolTip": "DirectX\\light.ps",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-18T08:04:38.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "delete_scalar.cpp",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "ViewState": "AQIAAA4AAAAAAAAAAAASwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T13:05:23.727Z",
+              "DocumentIndex": 3,
+              "Title": "light.vs",
+              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\light.vs",
+              "RelativeDocumentMoniker": "DirectX\\light.vs",
+              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\light.vs",
+              "RelativeToolTip": "DirectX\\light.vs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-18T08:04:36.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "lightshaderclass.cpp",
+              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\lightshaderclass.cpp",
+              "RelativeDocumentMoniker": "DirectX\\lightshaderclass.cpp",
+              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\lightshaderclass.cpp",
+              "RelativeToolTip": "DirectX\\lightshaderclass.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-18T07:45:57.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "textureclass.h",
+              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.h",
+              "RelativeDocumentMoniker": "DirectX\\textureclass.h",
+              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.h",
+              "RelativeToolTip": "DirectX\\textureclass.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T08:34:41.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "applicationclass.h",
+              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\applicationclass.h",
+              "RelativeDocumentMoniker": "DirectX\\applicationclass.h",
+              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\applicationclass.h",
+              "RelativeToolTip": "DirectX\\applicationclass.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T08:23:38.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "my_img.tga",
               "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\my_img.tga",
               "RelativeDocumentMoniker": "DirectX\\my_img.tga",
@@ -144,6 +187,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "modelclass.h",
+              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\modelclass.h",
+              "RelativeDocumentMoniker": "DirectX\\modelclass.h",
+              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\modelclass.h",
+              "RelativeToolTip": "DirectX\\modelclass.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T08:20:12.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "systemclass.h",
               "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\systemclass.h",
               "RelativeDocumentMoniker": "DirectX\\systemclass.h",
@@ -151,49 +207,35 @@
               "RelativeToolTip": "DirectX\\systemclass.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T08:59:17.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "textureclass.h",
-              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.h",
-              "RelativeDocumentMoniker": "DirectX\\textureclass.h",
-              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.h",
-              "RelativeToolTip": "DirectX\\textureclass.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBYAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T08:34:41.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "applicationclass.h",
-              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\applicationclass.h",
-              "RelativeDocumentMoniker": "DirectX\\applicationclass.h",
-              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\applicationclass.h",
-              "RelativeToolTip": "DirectX\\applicationclass.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T08:23:38.868Z"
+              "WhenOpened": "2024-08-16T08:59:17.13Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "modelclass.h",
-              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\modelclass.h",
-              "RelativeDocumentMoniker": "DirectX\\modelclass.h",
-              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\modelclass.h",
-              "RelativeToolTip": "DirectX\\modelclass.h",
-              "ViewState": "AQIAABEAAAAAAAAAAAAUwCEAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T08:20:12.013Z"
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAASwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T13:05:23.727Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "textureclass.cpp",
+              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.cpp",
+              "RelativeDocumentMoniker": "DirectX\\textureclass.cpp",
+              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureclass.cpp",
+              "RelativeToolTip": "DirectX\\textureclass.cpp",
+              "ViewState": "AQIAALgAAAAAAAAAAAAwwNAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-16T14:03:36.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\main.cpp",
               "RelativeDocumentMoniker": "DirectX\\main.cpp",
@@ -201,49 +243,22 @@
               "RelativeToolTip": "DirectX\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T06:42:35.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T06:42:35.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "textureshaderclass.h",
-              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureshaderclass.h",
-              "RelativeDocumentMoniker": "DirectX\\textureshaderclass.h",
-              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureshaderclass.h",
-              "RelativeToolTip": "DirectX\\textureshaderclass.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-16T09:04:18.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "stone01.tga",
               "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\stone01.tga",
               "RelativeDocumentMoniker": "DirectX\\stone01.tga",
               "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\stone01.tga",
               "RelativeToolTip": "DirectX\\stone01.tga",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-08-16T08:44:10.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T08:44:10.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "textureshaderclass.cpp",
-              "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureshaderclass.cpp",
-              "RelativeDocumentMoniker": "DirectX\\textureshaderclass.cpp",
-              "ToolTip": "C:\\DirectX11\\DirectX11_Study\\DirectX\\textureshaderclass.cpp",
-              "RelativeToolTip": "DirectX\\textureshaderclass.cpp",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T08:26:19.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "cameraclass.cpp",
               "DocumentMoniker": "C:\\DirectX11\\DirectX11_Study\\DirectX\\cameraclass.cpp",
               "RelativeDocumentMoniker": "DirectX\\cameraclass.cpp",
@@ -251,8 +266,7 @@
               "RelativeToolTip": "DirectX\\cameraclass.cpp",
               "ViewState": "AQIAADYAAAAAAAAAAAAAAEwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-16T08:33:05.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T08:33:05.825Z"
             }
           ]
         }
