@@ -37,10 +37,10 @@ bool ApplicationClass::Initialize(int screenWidth, int screenHeight, HWND hwnd)
 	m_Camera = new CameraClass;
 
 	// Set the initial position of the camera.
-	m_Camera->SetPosition(0.0f, 1.0f, -15.0f);
+	m_Camera->SetPosition(0.0f, 0.0f, -15.0f);
 
 	// Set the file name of the model.
-	strcpy_s(modelFilename, "cube.txt");
+	strcpy_s(modelFilename, "rectangular.txt");
 
 	// Set the name of the texture file that we will be loading.
 	strcpy_s(textureFilename, "my_img.tga");
@@ -70,7 +70,7 @@ bool ApplicationClass::Initialize(int screenWidth, int screenHeight, HWND hwnd)
 	m_Light = new LightClass;
 
 	m_Light->SetDiffuseColor(0.0f, 1.0f, 0.0f, 1.0f);
-	m_Light->SetDirection(-1.0f, 0.0f, 1.0f);
+	m_Light->SetDirection(0.0f, 0.0f, 1.0f);
 
 	return true;
 }

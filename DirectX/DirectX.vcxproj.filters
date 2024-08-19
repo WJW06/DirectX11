@@ -85,5 +85,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="cube.txt" />
+    <Text Include="rectangular.txt" />
   </ItemGroup>
 </Project>
