@@ -40,7 +40,7 @@ bool ApplicationClass::Initialize(int screenWidth, int screenHeight, HWND hwnd)
 	m_Camera->SetPosition(0.0f, 0.0f, -10.0f);
 
 	// Set the file name of the model.
-	strcpy_s(modelFilename, "rectangular.txt");
+	strcpy_s(modelFilename, "cube.txt");
 
 	// Set the name of the texture file that we will be loading.
 	strcpy_s(textureFilename, "my_img.tga");
@@ -69,8 +69,11 @@ bool ApplicationClass::Initialize(int screenWidth, int screenHeight, HWND hwnd)
 	// Create and initialize the light object.
 	m_Light = new LightClass;
 
-	m_Light->SetDiffuseColor(0.0f, 1.0f, 0.0f, 1.0f);
-	m_Light->SetDirection(0.0f, 0.0f, 1.0f);
+	// 0.2f, 0.2f, 0.2f
+	// 0.0f, 0.0f, 0.0f
+	m_Light->SetAmbientColor(0.2f, 0.2f, 0.2f, 1.0f);
+	m_Light->SetDiffuseColor(1.0f, 1.0f, 1.0f, 1.0f);
+	m_Light->SetDirection(1.0f, 0.0f, 0.0f);
 
 	return true;
 }
@@ -120,15 +123,15 @@ void ApplicationClass::Shutdown()
 
 bool ApplicationClass::Frame()
 {
-	static float rotation = 360.0f;
+	static float rotation = 0.0f;
 	bool result;
 
 
 	// Update the rotation variable each frame.
-	rotation += 0.034906585f * 0.1f;
+	rotation -= 0.0174532925f * 0.25f;
 	if (rotation < 0.0f)
 	{
-		rotation -= 360.0f;
+		rotation += 360.0f;
 	}
 
 	// Render the graphics scene.
@@ -168,7 +171,7 @@ bool ApplicationClass::Render(float rotation)
 
 	// Render the model using the light shader.
 	result = m_LightShader->Render(m_Direct3D->GetDeviceContext(), m_Model->GetIndexCount(), worldMatrix, viewMatrix, projectionMatrix, m_Model->GetTexture(),
-		m_Light->GetDirection(), m_Light->GetDiffuseColor());
+		m_Light->GetDirection(), m_Light->GetAmbientColor(), m_Light->GetDiffuseColor());
 	if (!result)
 	{
 		return false;
@@ -187,7 +190,7 @@ bool ApplicationClass::Render(float rotation)
 
 	// Render the model using the light shader.
 	result = m_LightShader->Render(m_Direct3D->GetDeviceContext(), m_Model->GetIndexCount(), worldMatrix, viewMatrix, projectionMatrix, m_Model->GetTexture(),
-		m_Light->GetDirection(), m_Light->GetDiffuseColor());
+		m_Light->GetDirection(), m_Light->GetAmbientColor(), m_Light->GetDiffuseColor());
 	if (!result)
 	{
 		return false;
