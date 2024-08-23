@@ -48,9 +48,12 @@
   <ItemGroup>
     <None Include="light.ps" />
     <None Include="light.vs" />
+    <None Include="point_lights.ps" />
+    <None Include="point_lights.vs" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="cube.txt" />
+    <Text Include="plane.txt" />
     <Text Include="rectangular.txt" />
     <Text Include="sphere.txt" />
   </ItemGroup>
