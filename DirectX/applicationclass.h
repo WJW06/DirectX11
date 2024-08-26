@@ -7,7 +7,9 @@
 //#include "lightshaderclass.h"
 //#include "lightclass.h"
 #include "textureshaderclass.h"
-#include "bitmapclass.h"
+//#include "bitmapclass.h"
+#include "spriteclass.h"
+#include "timerclass.h"
 
 const bool FULL_SCREEN = false;
 const bool VSYNC_ENABLED = true;
@@ -35,9 +37,11 @@ private:
 	//LightShaderClass* m_LightShader;
 	//LightClass* m_Light;
 	//LightClass* m_Lights;
+	//int m_numLights;
 	TextureShaderClass* m_TextureShader;
-	BitmapClass* m_Bitmap;
-	int m_numLights;
+	//BitmapClass* m_Bitmap;
+	SpriteClass* m_Sprite;
+	TimerClass* m_Timer;
 };
 
 #endif

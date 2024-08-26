@@ -13,6 +13,9 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
+    <Filter Include="Data">
+      <UniqueIdentifier>{49b3dd9f-c0a0-4df9-a0ec-43bfee6b2ceb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="applicationclass.cpp">
@@ -51,6 +54,12 @@
     <ClCompile Include="textureshaderclass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="spriteclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="timerclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="applicationclass.h">
@@ -86,10 +95,12 @@
     <ClInclude Include="textureshaderclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="stone01.tga" />
-    <Image Include="my_img.tga" />
+    <ClInclude Include="spriteclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="timerclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="light.ps" />
@@ -100,9 +111,97 @@
     <None Include="texture.vs" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="cube.txt" />
-    <Text Include="rectangular.txt" />
-    <Text Include="sphere.txt" />
-    <Text Include="plane.txt" />
+    <Text Include="Data\cube.txt">
+      <Filter>Data</Filter>
+    </Text>
+    <Text Include="Data\plane.txt">
+      <Filter>Data</Filter>
+    </Text>
+    <Text Include="Data\rectangular.txt">
+      <Filter>Data</Filter>
+    </Text>
+    <Text Include="Data\sphere.txt">
+      <Filter>Data</Filter>
+    </Text>
+    <Text Include="Data\sprite_data_01.txt">
+      <Filter>Data</Filter>
+    </Text>
+    <Text Include="Data\my_img_data.txt">
+      <Filter>Data</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Data\my_img.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img3.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img4.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img5.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img6.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img7.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img8.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img9.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img10.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img11.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img12.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img13.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img14.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img15.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img16.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img17.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img18.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\sprite01.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\sprite02.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\sprite03.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\sprite04.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\stone01.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img1.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\my_img2.tga">
+      <Filter>Data</Filter>
+    </Image>
   </ItemGroup>
 </Project>

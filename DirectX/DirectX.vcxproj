@@ -28,9 +28,11 @@
     <ClCompile Include="lightshaderclass.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="modelclass.cpp" />
+    <ClCompile Include="spriteclass.cpp" />
     <ClCompile Include="systemclass.cpp" />
     <ClCompile Include="textureclass.cpp" />
     <ClCompile Include="textureshaderclass.cpp" />
+    <ClCompile Include="timerclass.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="applicationclass.h" />
@@ -41,13 +43,11 @@
     <ClInclude Include="lightclass.h" />
     <ClInclude Include="lightshaderclass.h" />
     <ClInclude Include="modelclass.h" />
+    <ClInclude Include="spriteclass.h" />
     <ClInclude Include="systemclass.h" />
     <ClInclude Include="textureclass.h" />
     <ClInclude Include="textureshaderclass.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="my_img.tga" />
-    <Image Include="stone01.tga" />
+    <ClInclude Include="timerclass.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="light.ps" />
@@ -58,10 +58,38 @@
     <None Include="texture.vs" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="cube.txt" />
-    <Text Include="plane.txt" />
-    <Text Include="rectangular.txt" />
-    <Text Include="sphere.txt" />
+    <Text Include="Data\cube.txt" />
+    <Text Include="Data\my_img_data.txt" />
+    <Text Include="Data\plane.txt" />
+    <Text Include="Data\rectangular.txt" />
+    <Text Include="Data\sphere.txt" />
+    <Text Include="Data\sprite_data_01.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Data\my_img.tga" />
+    <Image Include="Data\my_img1.tga" />
+    <Image Include="Data\my_img10.tga" />
+    <Image Include="Data\my_img11.tga" />
+    <Image Include="Data\my_img12.tga" />
+    <Image Include="Data\my_img13.tga" />
+    <Image Include="Data\my_img14.tga" />
+    <Image Include="Data\my_img15.tga" />
+    <Image Include="Data\my_img16.tga" />
+    <Image Include="Data\my_img17.tga" />
+    <Image Include="Data\my_img18.tga" />
+    <Image Include="Data\my_img2.tga" />
+    <Image Include="Data\my_img3.tga" />
+    <Image Include="Data\my_img4.tga" />
+    <Image Include="Data\my_img5.tga" />
+    <Image Include="Data\my_img6.tga" />
+    <Image Include="Data\my_img7.tga" />
+    <Image Include="Data\my_img8.tga" />
+    <Image Include="Data\my_img9.tga" />
+    <Image Include="Data\sprite01.tga" />
+    <Image Include="Data\sprite02.tga" />
+    <Image Include="Data\sprite03.tga" />
+    <Image Include="Data\sprite04.tga" />
+    <Image Include="Data\stone01.tga" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

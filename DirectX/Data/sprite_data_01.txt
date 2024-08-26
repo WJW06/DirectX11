@@ -1,0 +1,6 @@
+4
+Data/sprite04.tga
+Data/sprite03.tga
+Data/sprite02.tga
+Data/sprite01.tga
+100
