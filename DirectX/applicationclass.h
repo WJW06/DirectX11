@@ -3,9 +3,11 @@
 
 #include "d3dclass.h"
 #include "cameraclass.h"
-#include "modelclass.h"
-#include "lightshaderclass.h"
-#include "lightclass.h"
+//#include "modelclass.h"
+//#include "lightshaderclass.h"
+//#include "lightclass.h"
+#include "textureshaderclass.h"
+#include "bitmapclass.h"
 
 const bool FULL_SCREEN = false;
 const bool VSYNC_ENABLED = true;
@@ -29,10 +31,12 @@ private:
 private:
 	D3DClass* m_Direct3D;
 	CameraClass* m_Camera;
-	ModelClass* m_Model;
-	LightShaderClass* m_LightShader;
+	//ModelClass* m_Model;
+	//LightShaderClass* m_LightShader;
 	//LightClass* m_Light;
-	LightClass* m_Lights;
+	//LightClass* m_Lights;
+	TextureShaderClass* m_TextureShader;
+	BitmapClass* m_Bitmap;
 	int m_numLights;
 };
 
