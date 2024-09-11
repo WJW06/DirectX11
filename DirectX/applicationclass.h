@@ -6,10 +6,13 @@
 //#include "modelclass.h"
 //#include "lightshaderclass.h"
 //#include "lightclass.h"
-#include "textureshaderclass.h"
+//#include "textureshaderclass.h"
 //#include "bitmapclass.h"
-#include "spriteclass.h"
-#include "timerclass.h"
+//#include "spriteclass.h"
+//#include "timerclass.h"
+#include "fontshaderclass.h"
+#include "fontclass.h"
+#include "textclass.h"
 
 const bool FULL_SCREEN = false;
 const bool VSYNC_ENABLED = true;
@@ -38,10 +41,13 @@ private:
 	//LightClass* m_Light;
 	//LightClass* m_Lights;
 	//int m_numLights;
-	TextureShaderClass* m_TextureShader;
+	//TextureShaderClass* m_TextureShader;
 	//BitmapClass* m_Bitmap;
-	SpriteClass* m_Sprite;
-	TimerClass* m_Timer;
+	//SpriteClass* m_Sprite;
+	//TimerClass* m_Timer;
+	FontShaderClass* m_FontShader;
+	FontClass* m_Font;
+	TextClass* m_TextString1, * m_TextString2, * m_TextString3;
 };
 
 #endif

@@ -23,6 +23,8 @@
     <ClCompile Include="bitmapclass.cpp" />
     <ClCompile Include="cameraclass.cpp" />
     <ClCompile Include="d3dclass.cpp" />
+    <ClCompile Include="fontclass.cpp" />
+    <ClCompile Include="fontshaderclass.cpp" />
     <ClCompile Include="inputclass.cpp" />
     <ClCompile Include="lightclass.cpp" />
     <ClCompile Include="lightshaderclass.cpp" />
@@ -30,6 +32,7 @@
     <ClCompile Include="modelclass.cpp" />
     <ClCompile Include="spriteclass.cpp" />
     <ClCompile Include="systemclass.cpp" />
+    <ClCompile Include="textclass.cpp" />
     <ClCompile Include="textureclass.cpp" />
     <ClCompile Include="textureshaderclass.cpp" />
     <ClCompile Include="timerclass.cpp" />
@@ -39,17 +42,22 @@
     <ClInclude Include="bitmapclass.h" />
     <ClInclude Include="cameraclass.h" />
     <ClInclude Include="d3dclass.h" />
+    <ClInclude Include="fontclass.h" />
+    <ClInclude Include="fontshaderclass.h" />
     <ClInclude Include="inputclass.h" />
     <ClInclude Include="lightclass.h" />
     <ClInclude Include="lightshaderclass.h" />
     <ClInclude Include="modelclass.h" />
     <ClInclude Include="spriteclass.h" />
     <ClInclude Include="systemclass.h" />
+    <ClInclude Include="textclass.h" />
     <ClInclude Include="textureclass.h" />
     <ClInclude Include="textureshaderclass.h" />
     <ClInclude Include="timerclass.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="font.ps" />
+    <None Include="font.vs" />
     <None Include="light.ps" />
     <None Include="light.vs" />
     <None Include="point_lights.ps" />
@@ -59,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data\cube.txt" />
+    <Text Include="Data\font01.txt" />
     <Text Include="Data\my_img_data.txt" />
     <Text Include="Data\plane.txt" />
     <Text Include="Data\rectangular.txt" />
@@ -66,6 +75,7 @@
     <Text Include="Data\sprite_data_01.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="Data\font01.tga" />
     <Image Include="Data\my_img.tga" />
     <Image Include="Data\my_img1.tga" />
     <Image Include="Data\my_img10.tga" />

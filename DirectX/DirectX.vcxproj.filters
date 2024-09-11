@@ -60,6 +60,15 @@
     <ClCompile Include="timerclass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="fontclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fontshaderclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="textclass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="applicationclass.h">
@@ -101,6 +110,15 @@
     <ClInclude Include="timerclass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="fontclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="fontshaderclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="textclass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="light.ps" />
@@ -109,6 +127,8 @@
     <None Include="point_lights.vs" />
     <None Include="texture.ps" />
     <None Include="texture.vs" />
+    <None Include="font.ps" />
+    <None Include="font.vs" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="Data\cube.txt">
@@ -127,6 +147,9 @@
       <Filter>Data</Filter>
     </Text>
     <Text Include="Data\my_img_data.txt">
+      <Filter>Data</Filter>
+    </Text>
+    <Text Include="Data\font01.txt">
       <Filter>Data</Filter>
     </Text>
   </ItemGroup>
@@ -201,6 +224,9 @@
       <Filter>Data</Filter>
     </Image>
     <Image Include="Data\my_img2.tga">
+      <Filter>Data</Filter>
+    </Image>
+    <Image Include="Data\font01.tga">
       <Filter>Data</Filter>
     </Image>
   </ItemGroup>
