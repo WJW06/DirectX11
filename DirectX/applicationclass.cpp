@@ -331,7 +331,7 @@ void ApplicationClass::Shutdown()
 
 bool ApplicationClass::Frame()
 {
-	static float rotation = 360.0f;
+	static float rotation = 180.0f;
 	//float frameTime;
 	bool result;
 

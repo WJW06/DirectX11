@@ -189,19 +189,25 @@ bool TextureClass::LoadTarga32Bit(char* filename)
 	// Now copy the targa image data into the targa destination array in the correct order since the targa format is stored upside down and also is not in RGBA order.
 	if (bpp == 32)
 	{
+		// Initialize the index into the targa image data.
+		k = (m_width * m_height * 4) - (m_width * 4);
+
 		for (j = 0; j < m_height; j++)
 		{
 			for (i = 0; i < m_width; i++)
 			{
-				m_targaData[index + 0] = targaImage[k + 0];  // Red.
+				m_targaData[index + 0] = targaImage[k + 2];  // Red.
 				m_targaData[index + 1] = targaImage[k + 1];  // Green.
-				m_targaData[index + 2] = targaImage[k + 2];  // Blue
+				m_targaData[index + 2] = targaImage[k + 0];  // Blue
 				m_targaData[index + 3] = targaImage[k + 3];  // Alpha
 
 				// Increment the indexes into the targa data.
 				k += 4;
 				index += 4;
 			}
+
+			// Set the targa image data index back to the preceding row at the beginning of the column since its reading it in upside down.
+			k -= (m_width * 8);
 		}
 	}
 	else if (bpp == 24)
